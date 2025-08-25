@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="gi_v18b_imu_driver" type="gi_v18b_imu_node.py" name="gi_v18b_imu_node" output="screen">
+    <param name="port" value="/dev/ttyUSB0"/>
+    <param name="baudrate" value="115200"/>
+  </node>
+</launch>
