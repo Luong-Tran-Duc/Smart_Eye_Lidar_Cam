@@ -1,8 +1,0 @@
-prefix=/home/aa-04/Smart_Eye_Lidar_Cam/install
-
-Name: preprocess_module
-Description: Description of preprocess_module
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: message_runtime

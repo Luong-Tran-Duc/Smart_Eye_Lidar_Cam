@@ -1,1 +1,0 @@
-/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/share/vikit_py/cmake/vikit_pyConfig.cmake

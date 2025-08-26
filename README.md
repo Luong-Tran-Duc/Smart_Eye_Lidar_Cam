@@ -199,5 +199,6 @@ rosrun rviz rviz
   - IMU: [gi_v18b_imu_driver](https://github.com/Luong-Tran-Duc/Smart_Eye_Lidar_Cam/tree/main/src/gi_v18b_imu_driver)
   - Mapping: [FAST-LIVO2](https://github.com/Luong-Tran-Duc/Smart_Eye_Lidar_Cam/tree/main/src/FAST-LIVO2)
   - Common: [common](https://github.com/Luong-Tran-Duc/Smart_Eye_Lidar_Cam/tree/main/src/common)
+  - Stream: [Stream](https://github.com/Luong-Tran-Duc/Smart_Eye_Lidar_Cam/tree/main/src/mediamtx_v1.13.0_linux_arm64)
 - **Launch File**: Ensure `common all.launch` includes nodes for `driver_camera_hikvision`, `gi_v18b_imu_driver`, `livox_ros_driver`, and `fast_livo`.
 - Verify SSH access to `git@github.com:Luong-Tran-Duc/Smart_Eye_Lidar_Cam.git`.

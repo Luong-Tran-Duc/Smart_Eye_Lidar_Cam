@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -Wall -D_LINUX -D_REENTRANT -march=native -Wno-unused-variable -Wno-unused-but-set-variable -Wno-unknown-pragmas -std=c++0x -O3 -DNDEBUG  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/aa-04/Smart_Eye_Lidar_Cam/build/vikit_ros/gtest/lib ../lib/libgtest.so -lpthread 

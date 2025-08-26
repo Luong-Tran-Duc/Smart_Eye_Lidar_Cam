@@ -1,1 +1,0 @@
-/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/common/share/gennodejs/ros/common/msg/_index.js

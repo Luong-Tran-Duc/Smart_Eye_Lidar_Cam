@@ -1,8 +1,0 @@
-prefix=/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/gi_v18b_imu_driver
-
-Name: gi_v18b_imu_driver
-Description: Description of gi_v18b_imu_driver
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
