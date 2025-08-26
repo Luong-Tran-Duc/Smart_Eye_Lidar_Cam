@@ -1,0 +1,10 @@
+<launch>
+    <!-- Node for publishing camera image -->
+    <node pkg="camera_driver" type="camera_image.py" name="camera_image" output="screen" />
+
+    <!-- Node for publishing calibration data -->
+    <!-- <node pkg="camera_driver" type="pe_calibration_publisher.py" name="pe_calibration_publisher" output="screen" /> -->
+
+    <!-- Node for publishing other info -->
+    <!-- <node pkg="camera_driver" type="pub_info.py" name="pub_info" output="screen" /> -->
+</launch>
