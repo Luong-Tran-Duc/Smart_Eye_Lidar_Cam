@@ -108,7 +108,6 @@ source ~/.bashrc
    ```bash
    cd ~/Smart_Eye_Lidar_Cam/src
    git clone --recurse-submodules git@github.com:Luong-Tran-Duc/Smart_Eye_Lidar_Cam.git smart_eye_lidar_cam
-   git clone https://github.com/hku-mars/FAST-LIVO2.git
    ```
 3. Build:
    ```bash
