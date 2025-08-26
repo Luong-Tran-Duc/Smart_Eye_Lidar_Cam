@@ -1,0 +1,1 @@
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/driver_camera_hikvision/lib/pkgconfig/driver_camera_hikvision.pc

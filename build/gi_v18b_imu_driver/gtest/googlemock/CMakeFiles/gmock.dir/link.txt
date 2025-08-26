@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/aa-04/Smart_Eye_Lidar_Cam/build/gi_v18b_imu_driver/gtest/lib ../lib/libgtest.so -lpthread 

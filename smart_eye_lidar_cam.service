@@ -1,0 +1,18 @@
+```ini
+   [Unit]
+   Description=Smart Eye Lidar Camera Startup Service
+   After=network.target
+
+   [Service]
+   Type=simple
+   ExecStart=/home/viact/Smart_Eye_Lidar_Cam/start_all.sh
+   Environment="ROS_DISTRO=noetic"
+   Environment="PATH=/opt/ros/noetic/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+   User=viact
+   Group=viact
+   Restart=on-failure
+   WorkingDirectory=/home/viact/Smart_Eye_Lidar_Cam
+
+   [Install]
+   WantedBy=multi-user.target
+   ```

@@ -1,0 +1,6 @@
+rpg_vikit/vikit_py
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/cmake.lock /home/aa-04/Smart_Eye_Lidar_Cam/devel/./cmake.lock
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/lib/python3/dist-packages/vikit_py/__init__.py /home/aa-04/Smart_Eye_Lidar_Cam/devel/lib/python3/dist-packages/vikit_py/__init__.py
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/lib/pkgconfig/vikit_py.pc /home/aa-04/Smart_Eye_Lidar_Cam/devel/lib/pkgconfig/vikit_py.pc
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/share/vikit_py/cmake/vikit_pyConfig-version.cmake /home/aa-04/Smart_Eye_Lidar_Cam/devel/share/vikit_py/cmake/vikit_pyConfig-version.cmake
+/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/vikit_py/share/vikit_py/cmake/vikit_pyConfig.cmake /home/aa-04/Smart_Eye_Lidar_Cam/devel/share/vikit_py/cmake/vikit_pyConfig.cmake

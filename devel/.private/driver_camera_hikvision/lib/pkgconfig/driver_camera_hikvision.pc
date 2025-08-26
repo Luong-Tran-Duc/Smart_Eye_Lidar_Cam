@@ -1,0 +1,8 @@
+prefix=/home/aa-04/Smart_Eye_Lidar_Cam/devel/.private/driver_camera_hikvision
+
+Name: driver_camera_hikvision
+Description: Description of driver_camera_hikvision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

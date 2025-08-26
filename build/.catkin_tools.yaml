@@ -1,0 +1,6 @@
+devel_space: /home/aa-04/Smart_Eye_Lidar_Cam/devel
+install: false
+install_space: /home/aa-04/Smart_Eye_Lidar_Cam/install
+profile: default
+source_space: /home/aa-04/Smart_Eye_Lidar_Cam/src
+workspace: /home/aa-04/Smart_Eye_Lidar_Cam
